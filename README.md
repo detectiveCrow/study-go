@@ -1,3 +1,8 @@
+# How to use Dockerfile
+
+1. ``` > docker build -t golang-app . ```
+2. ``` > docker run golang-app ```
+
 # Go lang
 
 ## 왜 go lang 인가
